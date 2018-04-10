@@ -10,4 +10,4 @@ const books = [
   }
 ]
 
-getBook(books[0])
+getBook(books[1])

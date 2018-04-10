@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+typings/
+db.json
+public/
+.deploy_git/
+source/_posts/*

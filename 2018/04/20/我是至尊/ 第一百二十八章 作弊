@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next mist use-motion" lang="zh-CN">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=6.0.3" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.0.3">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.0.3">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.0.3">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.0.3" color="#222">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Mist',
+    version: '6.0.3',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+  
+  <meta name="keywords" content="Duke," />
+
+
+<meta name="description" content="“陷阱，怎么可能。”云扬微笑：“在知道您老的身份之后，什么陷阱我敢布置？” 　　　　老头斜眼看着云扬，点点头，哼哼道：“你小子，不简单啊，很不简单！”　　　　“你花费了这么大的代价，却就只为了和老夫打个赌，我只问你，你是如何确定的？”　　　　云扬呵呵一笑，知道跟这种人玩心计只是适得其反，干脆完全实话实说道：“这事的初衷还真的就是巧合，我原本就只是听说有人在这里钓鱼……所以很好奇。因为据我所知，这个">
+<meta name="keywords" content="Duke">
+<meta property="og:type" content="article">
+<meta property="og:title" content="第一百二十八章 作弊?谁不会啊">
+<meta property="og:url" content="http://yoursite.com/2018/04/20/我是至尊/ 第一百二十八章 作弊">
+<meta property="og:site_name" content="DDuke 小屋">
+<meta property="og:description" content="“陷阱，怎么可能。”云扬微笑：“在知道您老的身份之后，什么陷阱我敢布置？” 　　　　老头斜眼看着云扬，点点头，哼哼道：“你小子，不简单啊，很不简单！”　　　　“你花费了这么大的代价，却就只为了和老夫打个赌，我只问你，你是如何确定的？”　　　　云扬呵呵一笑，知道跟这种人玩心计只是适得其反，干脆完全实话实说道：“这事的初衷还真的就是巧合，我原本就只是听说有人在这里钓鱼……所以很好奇。因为据我所知，这个">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:updated_time" content="2018-04-20T08:04:50.892Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="第一百二十八章 作弊?谁不会啊">
+<meta name="twitter:description" content="“陷阱，怎么可能。”云扬微笑：“在知道您老的身份之后，什么陷阱我敢布置？” 　　　　老头斜眼看着云扬，点点头，哼哼道：“你小子，不简单啊，很不简单！”　　　　“你花费了这么大的代价，却就只为了和老夫打个赌，我只问你，你是如何确定的？”　　　　云扬呵呵一笑，知道跟这种人玩心计只是适得其反，干脆完全实话实说道：“这事的初衷还真的就是巧合，我原本就只是听说有人在这里钓鱼……所以很好奇。因为据我所知，这个">
+
+
+
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2018/04/20/我是至尊/ 第一百二十八章 作弊"/>
+
+
+
+<script type="text/javascript" id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+  <title>第一百二十八章 作弊?谁不会啊 | DDuke 小屋</title>
+  
+
+
+
+
+
+
+
+
+
+  <noscript>
+  <style type="text/css">
+    .use-motion .motion-element,
+    .use-motion .brand,
+    .use-motion .menu-item,
+    .sidebar-inner,
+    .use-motion .post-block,
+    .use-motion .pagination,
+    .use-motion .comments,
+    .use-motion .post-header,
+    .use-motion .post-body,
+    .use-motion .collection-title { opacity: initial; }
+
+    .use-motion .logo,
+    .use-motion .site-title,
+    .use-motion .site-subtitle {
+      opacity: initial;
+      top: initial;
+    }
+
+    .use-motion {
+      .logo-line-before i { left: initial; }
+      .logo-line-after i { right: initial; }
+    }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"> <div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">DDuke 小屋</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-th"></i> <br />分类</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档</a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />搜索</a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="搜索..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+  
+
+
+
+ </div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/20/我是至尊/ 第一百二十八章 作弊?谁不会啊/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="DDuke">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/logo.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DDuke 小屋">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">第一百二十八章 作弊?谁不会啊</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-04-20T16:04:50+08:00">2018-04-20</time>
+            
+
+            
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/我是至尊/" itemprop="url" rel="index"><span itemprop="name">我是至尊</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <pre><code>“陷阱，怎么可能。”云扬微笑：“在知道您老的身份之后，什么陷阱我敢布置？”
+</code></pre><p>　　<br>　　老头斜眼看着云扬，点点头，哼哼道：“你小子，不简单啊，很不简单！”<br>　　<br>　　“你花费了这么大的代价，却就只为了和老夫打个赌，我只问你，你是如何确定的？”<br>　　<br>　　云扬呵呵一笑，知道跟这种人玩心计只是适得其反，干脆完全实话实说道：“这事的初衷还真的就是巧合，我原本就只是听说有人在这里钓鱼……所以很好奇。因为据我所知，这个百丈湖的鱼基本是钓不上来的，自然也就很少有人在这里钓鱼；基于这个理由，我注意了一下。”<br>　　<br>　　“然后您老的穿着打扮，也让我心生疑惑。”<br>　　<br>　　“那个时候，我还只是怀疑一分；到了这里，看到了你，一分变成了二分；一直到你突然散发气势，虽然很微弱、历时更暂，一发即收，仍旧让我疑心更增；再到后来看到了你的酒葫芦，便由原本的几分怀疑，变成了三分把握。”<br>　　<br>　　“其实我之后所说的那段感悟人生，更多的乃是一种试探；境界高的人会有感悟，境界低的人会觉得有道理；但你道谢，却让我三分把握更多了。”<br>　　<br>　　“接着前辈说起了鱼，更将此湖中有七鳞神仙这等大秘密轻易道出，分明就是你老不想欠我人情；所以还给我一份足以超出我之美酒价值的信息……”<br>　　<br>　　“这种脾性，却是不多。”<br>　　<br>　　“到这个时候，我的把握已经变成了五分。”<br>　　<br>　　云扬洒然道：“五分把握，已经足够作为判断依据，你是不是我想象之中的那个人，都无所谓。无论你是不是，我的这份善缘都已经结下了。打赌，只是一个手段而已；不管赌赢了赌输了，我们这份交情，都已经存在了，难得磨灭。”<br>　　<br>　　“我赌赢了，我可以要求你一件事。我赌输了，有今天这份交情在，将来江湖路远，天涯海角，总有一天，我们还能再见。”<br>　　<br>　　云扬微笑道：“像我这种人，是不会放弃任何的可以让我得到好处的机会的，而像你这种人，偏偏却又不在乎我所在乎的事情。”<br>　　<br>　　“所以我认出你，知道你，对你来说，并没有妨碍。只是一个很平常的际遇。不是么？”<br>　　<br>　　云扬嘿嘿一笑：“更凑巧的是，我这段时间是真的闲着没事。钓钓鱼，真的挺好；有人陪，自然好上加好；万一赌赢了，再添一份好处；纵使赌不赢，也可留待日后，仍旧是好！”<br>　　<br>　　老者哈哈大笑：“你这小家伙，倒是有趣的很。更难得的是，你在我面前所说的每一句话，都是大实话，都是你真实所想的心里话，这一点，很好。”<br>　　<br>　　云扬苦笑：“若是我能有把握骗倒你，我会毫不犹豫的一路骗下去，可是在你面前，任何的谎言，任何精妙的骗局，都只是一个笑话！那么就干脆说实话，你痛快我也痛快，不用费额外的心力！”<br>　　<br>　　老者又是一阵大笑。<br>　　<br>　　然后，他问道：“你不会是真想要和我赌钓鱼吧？跟我这个曾经钓上过七鳞神仙的人赌钓七鳞神仙，胆子是不是太大了一点！”<br>　　<br>　　云扬道：“有赌未为输，你老也说自己一共就只钓上来一条七鳞神仙而已，万一我运气好，真正钓上来了呢？<br>　　<br>　　老者登时又是一阵哈哈大笑：“好小子，果然够胆气，具体赌法又如何呢？”<br>　　<br>　　云扬亦笑道：“赌钓自然是谁先钓上来七鳞神仙，或者是谁钓的多，谁就是赢家。期限三天，愿赌服输。”<br>　　<br>　　“赌注呢？”老者眯着眼睛问道。<br>　　<br>　　“赌注……”云扬考虑了一下，道：“你赢了，我再想办法给你弄一坛酒中至尊。要是你老不好彩输了，帮我做一件事就好！”<br>　　<br>　　老头哼了一声。<br>　　<br>　　“你觉得你那一坛酒有这么值钱么？”他斜斜的看着云扬。<br>　　<br>　　“那您老说。”云扬很干脆的放弃：“若是我输了，你想要我如何？”<br>　　<br>　　云扬此言一出，老头反而愣住。<br>　　<br>　　你这个小渣渣能为我做什么？<br>　　<br>　　“要不这样吧，要是我输了，无论什么条件都可以。”云扬积极地帮对方出主意想办法：“只要你赢了，你就算是要当我干爹、或者当我师傅，都行。”<br>　　<br>　　“你想的美！”老头一翻白眼，悻悻道：“想要当我的干儿子，想要拜我为师，就你这体质……简直是……痴心妄想，异想天开！”<br>　　<br>　　云扬淡淡笑了笑：“你不答应我就放心了。”<br>　　<br>　　老头此际当然不知道，今天的拒绝，将来让他后悔了一辈子……<br>　　<br>　　“等等，若是双方平手又如何？你小子不会打算平手之后，赌注交换，让老夫我帮你做一件事，然后你小子认我当干爹或者拜入我的门下吧？！”老者目光陡然一凝。要是都钓不着，自然就是平手啊。<br>　　<br>　　云扬闻言也是一愣，因为某人还真就没想过可能会出现平手这回事，顿了一顿道：“您真的是想多了，若是平手的话，当然就是赌注全部取消……要是您这么犹豫，又或者是怕输的话，那这场赌约，不进行也无妨！”<br>　　<br>　　“你小子不用激将，老夫答应你就是！”老头儿气的下颌的山羊胡子都翘了起来。<br>　　<br>　　“那您老属意晚辈的赌注呢？”云扬追问道<br>　　<br>　　“算了，就一坛酒中至尊吧。”老头貌似是吃了多大的亏，很是悻悻然：“老夫吃点亏。”<br>　　<br>　　心想，再有一坛的话，借助酒中道境，或许自己真能突破现在的桎梏……到那时候，就真的美了……<br>　　<br>　　这小子想要在钓鱼上赢我，根本就是异想天开。<br>　　<br>　　老夫为了这麒麟鱼，可不知道磨炼多少年的钓鱼手段了，沉淀了几番心境……<br>　　<br>　　再说了，这百丈湖里究竟有多少麒麟鱼还未可知，三天之后双方平手的可能性才是最高，彼时老夫毫无负担的脱身而去，才是正经……<br>　　<br>　　那个姓云的小子，哪里知道这麒麟鱼可是天下第一聪明的鱼种，一旦有一条被钓上来，其他的麒麟鱼皆会有所感应，化身流水，再不可得，更会在此后最少一年的时间里，什么东西都不会吃的。<br>　　<br>　　“老丈，你用的什么饵料？”云扬伸头过来。<br>　　<br>　　老头登时将身子往后一缩，呼的一下子将自己的鱼饵全都收了起来，藏在屁股后面，眼睛瞪得大大的看着云扬：“你……你要和我比赛钓鱼，居然还凑过来问我的饵料？老夫从未见过如你小子这般如此厚颜无耻之人！”<br>　　<br>　　云扬讪讪的摸摸鼻子：“知己知彼百战百胜嘛……”<br>　　<br>　　有些尴尬的坐回去。<br>　　<br>　　摸出来自己的饵料，已经被自己揉成了一团，挂了一些在钩上，站起来，忽的一下子就将鱼竿甩了出去。<br>　　<br>　　云扬手中的这条鱼竿颇有名堂，乃是鸿毛竹所制，非但轻便而且足够长，足足有三丈。<br>　　<br>　　鱼线等设施也是最顶级的，只是，他那抛钩水平却是惨不忍睹、不堪入目，只是这么一甩竿，旁边的老头就险些笑了出来。<br>　　<br>　　绝对的菜鸟！<br>　　<br>　　你这一甩竿，抛得如何暂且不说，但你居然能把饵料都给甩没了……<br>　　<br>　　居然还想要钓鱼？用空钩么？<br>　　<br>　　就这水平，居然还胆大包天的和我打赌……<br>　　<br>　　这小子不会是故意的输给我，送我酒，贿赂我吧？<br>　　<br>　　只可惜老子不吃那一套！<br>　　<br>　　我赢了，我赢的，半点情分都木有！<br>　　<br>　　云扬起码的眼力还是有的，很快就发现了自己搞出的乌龙纰漏，迅速收杆，重新下饵；甩杆。<br>　　<br>　　这一次大抵就比第一次强了许多。<br>　　<br>　　半个时辰之后，老者那边开始钓上鱼来，虽然是平常的鱼，但是，一条接一条，宛如无止无休一般。<br>　　<br>　　那速度，端的飞快，而且钓上来的鱼越来越大。<br>　　<br>　　开始是巴掌大的，然后一斤多的，两斤多的，五斤多的……这会已经开始有十几斤的，二十多斤的，三四十斤的陆续上钩……<br>　　<br>　　嗯，钓到归钓到，那老者并没有收取已经上钩的鱼，每每有鱼上钩，那老者便即手指头一弹，将上钩的鱼儿打晕，重新放回水中，任那鱼儿翻着肚皮在水面飘一会，醒过来就逃走；<br>　　<br>　　而这样做的最大好处就是，最起码这几天是不敢咬钩了……<br>　　<br>　　若是论到成功率，老头已经陆陆续续钓上来百十条鱼了，可云扬这边漂子居然还是纹丝不动。<br>　　<br>　　“百丈湖里的鱼最是难钓，这老头能够如此暴连，他用的鱼饵绝对有问题！”云扬心中愤愤。<br>　　<br>　　“这老家伙作弊！”<br>　　<br>　　云扬好半天下来仍旧没钓到半点鱼，却见人家老头那边好似信手拈来一般的嗖嗖嗖往上飞鱼一般，一条比一条大，终于愤慨了。<br>　　<br>　　“作弊谁不会！”<br>　　<br>　　云扬本想明天才开始作弊的，但现在看这情况，自己要是不作弊的话，肯定是要输了。<br>　　<br>　　毕竟那老头自言有过成功钓到七鳞神仙的战绩！<br>　　<br>　　万一被他钓上一条，其他的全部化作流水……那么自己作弊也晚了。<br>　　<br>　　意念呼叫。<br>　　<br>　　“绿绿！快出来。”<br>　　<br>　　“啊呀呀……”<br>　　<br>　　绿绿正在神识空间里得意洋洋的挥舞滕蔓，闻言立即收了藤蔓，传来一股诧异的消息：干啥干啥？干啥叫我啦？<br>　　<br>　　“给我点能量，我要钓鱼！”</p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Duke/" rel="tag"># Duke</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2018/04/20/我是至尊/ 第一百二十七章 你知道我是谁?/" rel="next" title="第一百二十七章 你知道我是谁?">
+                <i class="fa fa-chevron-left"></i> 第一百二十七章 你知道我是谁?
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2018/04/20/我是至尊/ 第一百二十九章 我认输!/" rel="prev" title="第一百二十九章 我认输!">
+                第一百二十九章 我认输! <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+
+      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/logo.png"
+                alt="DDuke" />
+            
+              <p class="site-author-name" itemprop="name">DDuke</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/">
+                
+                    <span class="site-state-item-count">1024</span>
+                    <span class="site-state-item-name">日志</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-categories">
+                  <a href="/categories/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">分类</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                    <span class="site-state-item-count">1</span>
+                    <span class="site-state-item-name">标签</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+            
+          
+          
+
+        </div>
+      </section>
+
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2018</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">DDuke</span>
+
+  
+
+  
+</div>
+
+
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/theme-next/hexo-theme-next">NexT.Mist</a> v6.0.3</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=6.0.3"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=6.0.3"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.0.3"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=6.0.3"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.0.3"></script>
+
+
+
+  
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    var isXml = true;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length === 0) {
+      search_path = "search.xml";
+    } else if (/json$/i.test(search_path)) {
+      isXml = false;
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    var onPopupClose = function (e) {
+      $('.popup').hide();
+      $('#local-search-input').val('');
+      $('.search-result-list').remove();
+      $('#no-result').remove();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    }
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.search-popup-overlay').click(onPopupClose);
+      $('.popup').toggle();
+      var $localSearchInput = $('#local-search-input');
+      $localSearchInput.attr("autocapitalize", "none");
+      $localSearchInput.attr("autocorrect", "off");
+      $localSearchInput.focus();
+    }
+
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+
+      // start loading animation
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay">' +
+          '<div id="search-loading-icon">' +
+          '<i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>' +
+          '</div>' +
+          '</div>')
+        .css('overflow', 'hidden');
+      $("#search-loading-icon").css('margin', '20% auto 0 auto').css('text-align', 'center');
+
+      
+
+      $.ajax({
+        url: path,
+        dataType: isXml ? "xml" : "json",
+        async: true,
+        success: function(res) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = isXml ? $("entry", res).map(function() {
+            return {
+              title: $("title", this).text(),
+              content: $("content",this).text(),
+              url: $("url" , this).text()
+            };
+          }).get() : res;
+          var input = document.getElementById(search_id);
+          var resultContent = document.getElementById(content_id);
+          var inputEventFunction = function() {
+            var searchText = input.value.trim().toLowerCase();
+            var keywords = searchText.split(/[\s\-]+/);
+            if (keywords.length > 1) {
+              keywords.push(searchText);
+            }
+            var resultItems = [];
+            if (searchText.length > 0) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var hitCount = 0;
+                var searchTextCount = 0;
+                var title = data.title.trim();
+                var titleInLowerCase = title.toLowerCase();
+                var content = data.content.trim().replace(/<[^>]+>/g,"");
+                
+                var contentInLowerCase = content.toLowerCase();
+                var articleUrl = decodeURIComponent(data.url);
+                var indexOfTitle = [];
+                var indexOfContent = [];
+                // only match articles with not empty titles
+                if(title != '') {
+                  keywords.forEach(function(keyword) {
+                    function getIndexByWord(word, text, caseSensitive) {
+                      var wordLen = word.length;
+                      if (wordLen === 0) {
+                        return [];
+                      }
+                      var startPosition = 0, position = [], index = [];
+                      if (!caseSensitive) {
+                        text = text.toLowerCase();
+                        word = word.toLowerCase();
+                      }
+                      while ((position = text.indexOf(word, startPosition)) > -1) {
+                        index.push({position: position, word: word});
+                        startPosition = position + wordLen;
+                      }
+                      return index;
+                    }
+
+                    indexOfTitle = indexOfTitle.concat(getIndexByWord(keyword, titleInLowerCase, false));
+                    indexOfContent = indexOfContent.concat(getIndexByWord(keyword, contentInLowerCase, false));
+                  });
+                  if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
+                    isMatch = true;
+                    hitCount = indexOfTitle.length + indexOfContent.length;
+                  }
+                }
+
+                // show search results
+
+                if (isMatch) {
+                  // sort index by position of keyword
+
+                  [indexOfTitle, indexOfContent].forEach(function (index) {
+                    index.sort(function (itemLeft, itemRight) {
+                      if (itemRight.position !== itemLeft.position) {
+                        return itemRight.position - itemLeft.position;
+                      } else {
+                        return itemLeft.word.length - itemRight.word.length;
+                      }
+                    });
+                  });
+
+                  // merge hits into slices
+
+                  function mergeIntoSlice(text, start, end, index) {
+                    var item = index[index.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    var hits = [];
+                    var searchTextCountInSlice = 0;
+                    while (position + word.length <= end && index.length != 0) {
+                      if (word === searchText) {
+                        searchTextCountInSlice++;
+                      }
+                      hits.push({position: position, length: word.length});
+                      var wordEnd = position + word.length;
+
+                      // move to next position of hit
+
+                      index.pop();
+                      while (index.length != 0) {
+                        item = index[index.length - 1];
+                        position = item.position;
+                        word = item.word;
+                        if (wordEnd > position) {
+                          index.pop();
+                        } else {
+                          break;
+                        }
+                      }
+                    }
+                    searchTextCount += searchTextCountInSlice;
+                    return {
+                      hits: hits,
+                      start: start,
+                      end: end,
+                      searchTextCount: searchTextCountInSlice
+                    };
+                  }
+
+                  var slicesOfTitle = [];
+                  if (indexOfTitle.length != 0) {
+                    slicesOfTitle.push(mergeIntoSlice(title, 0, title.length, indexOfTitle));
+                  }
+
+                  var slicesOfContent = [];
+                  while (indexOfContent.length != 0) {
+                    var item = indexOfContent[indexOfContent.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    // cut out 100 characters
+                    var start = position - 20;
+                    var end = position + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if (end < position + word.length) {
+                      end = position + word.length;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    slicesOfContent.push(mergeIntoSlice(content, start, end, indexOfContent));
+                  }
+
+                  // sort slices in content by search text's count and hits' count
+
+                  slicesOfContent.sort(function (sliceLeft, sliceRight) {
+                    if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
+                      return sliceRight.searchTextCount - sliceLeft.searchTextCount;
+                    } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
+                      return sliceRight.hits.length - sliceLeft.hits.length;
+                    } else {
+                      return sliceLeft.start - sliceRight.start;
+                    }
+                  });
+
+                  // select top N slices in content
+
+                  var upperBound = parseInt('1');
+                  if (upperBound >= 0) {
+                    slicesOfContent = slicesOfContent.slice(0, upperBound);
+                  }
+
+                  // highlight title and content
+
+                  function highlightKeyword(text, slice) {
+                    var result = '';
+                    var prevEnd = slice.start;
+                    slice.hits.forEach(function (hit) {
+                      result += text.substring(prevEnd, hit.position);
+                      var end = hit.position + hit.length;
+                      result += '<b class="search-keyword">' + text.substring(hit.position, end) + '</b>';
+                      prevEnd = end;
+                    });
+                    result += text.substring(prevEnd, slice.end);
+                    return result;
+                  }
+
+                  var resultItem = '';
+
+                  if (slicesOfTitle.length != 0) {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + highlightKeyword(title, slicesOfTitle[0]) + "</a>";
+                  } else {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + title + "</a>";
+                  }
+
+                  slicesOfContent.forEach(function (slice) {
+                    resultItem += "<a href='" + articleUrl + "'>" +
+                      "<p class=\"search-result\">" + highlightKeyword(content, slice) +
+                      "...</p>" + "</a>";
+                  });
+
+                  resultItem += "</li>";
+                  resultItems.push({
+                    item: resultItem,
+                    searchTextCount: searchTextCount,
+                    hitCount: hitCount,
+                    id: resultItems.length
+                  });
+                }
+              })
+            };
+            if (keywords.length === 1 && keywords[0] === "") {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
+            } else if (resultItems.length === 0) {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
+            } else {
+              resultItems.sort(function (resultLeft, resultRight) {
+                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
+          }
+
+          if ('auto' === 'auto') {
+            input.addEventListener('input', inputEventFunction);
+          } else {
+            $('.search-icon').click(inputEventFunction);
+            input.addEventListener('keypress', function (event) {
+              if (event.keyCode === 13) {
+                inputEventFunction();
+              }
+            });
+          }
+
+          // remove loading animation
+          $(".local-search-pop-overlay").remove();
+          $('body').css('overflow', '');
+
+          proceedsearch();
+        }
+      });
+    }
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

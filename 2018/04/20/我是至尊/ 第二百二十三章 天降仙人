@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next mist use-motion" lang="zh-CN">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=6.0.3" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.0.3">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.0.3">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.0.3">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.0.3" color="#222">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Mist',
+    version: '6.0.3',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+  
+  <meta name="keywords" content="Duke," />
+
+
+<meta name="description" content="另一边的天唐城，同样处在悲喜两重天之中。 　　　　无数的民众，也在翘首以盼。　　　　盼望胜利的队伍回归。　　　　但一个个心中，也是说不出道不明叙不尽的担心忐忑，始终萦绕心头，那在军中的亲人，现在如何了？　　　　是否尚且安然？！　　　　然而更多的人却是喜悦，胜利的喜悦，还有从此再没有威胁的放松！　　　　那是全身心的放松，彻彻底底的安全了，所谓平安喜乐，不外如是！　　　　整个天唐城更是披红挂彩，城门处">
+<meta name="keywords" content="Duke">
+<meta property="og:type" content="article">
+<meta property="og:title" content="第二百二十三章 天降仙人?">
+<meta property="og:url" content="http://yoursite.com/2018/04/20/我是至尊/ 第二百二十三章 天降仙人">
+<meta property="og:site_name" content="DDuke 小屋">
+<meta property="og:description" content="另一边的天唐城，同样处在悲喜两重天之中。 　　　　无数的民众，也在翘首以盼。　　　　盼望胜利的队伍回归。　　　　但一个个心中，也是说不出道不明叙不尽的担心忐忑，始终萦绕心头，那在军中的亲人，现在如何了？　　　　是否尚且安然？！　　　　然而更多的人却是喜悦，胜利的喜悦，还有从此再没有威胁的放松！　　　　那是全身心的放松，彻彻底底的安全了，所谓平安喜乐，不外如是！　　　　整个天唐城更是披红挂彩，城门处">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:updated_time" content="2018-04-20T08:15:43.134Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="第二百二十三章 天降仙人?">
+<meta name="twitter:description" content="另一边的天唐城，同样处在悲喜两重天之中。 　　　　无数的民众，也在翘首以盼。　　　　盼望胜利的队伍回归。　　　　但一个个心中，也是说不出道不明叙不尽的担心忐忑，始终萦绕心头，那在军中的亲人，现在如何了？　　　　是否尚且安然？！　　　　然而更多的人却是喜悦，胜利的喜悦，还有从此再没有威胁的放松！　　　　那是全身心的放松，彻彻底底的安全了，所谓平安喜乐，不外如是！　　　　整个天唐城更是披红挂彩，城门处">
+
+
+
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2018/04/20/我是至尊/ 第二百二十三章 天降仙人"/>
+
+
+
+<script type="text/javascript" id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+  <title>第二百二十三章 天降仙人? | DDuke 小屋</title>
+  
+
+
+
+
+
+
+
+
+
+  <noscript>
+  <style type="text/css">
+    .use-motion .motion-element,
+    .use-motion .brand,
+    .use-motion .menu-item,
+    .sidebar-inner,
+    .use-motion .post-block,
+    .use-motion .pagination,
+    .use-motion .comments,
+    .use-motion .post-header,
+    .use-motion .post-body,
+    .use-motion .collection-title { opacity: initial; }
+
+    .use-motion .logo,
+    .use-motion .site-title,
+    .use-motion .site-subtitle {
+      opacity: initial;
+      top: initial;
+    }
+
+    .use-motion {
+      .logo-line-before i { left: initial; }
+      .logo-line-after i { right: initial; }
+    }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"> <div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">DDuke 小屋</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-th"></i> <br />分类</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档</a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />搜索</a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="搜索..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+  
+
+
+
+ </div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/20/我是至尊/ 第二百二十三章 天降仙人?/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="DDuke">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/logo.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DDuke 小屋">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">第二百二十三章 天降仙人?</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-04-20T16:15:43+08:00">2018-04-20</time>
+            
+
+            
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/我是至尊/" itemprop="url" rel="index"><span itemprop="name">我是至尊</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <pre><code>另一边的天唐城，同样处在悲喜两重天之中。
+</code></pre><p>　　<br>　　无数的民众，也在翘首以盼。<br>　　<br>　　盼望胜利的队伍回归。<br>　　<br>　　但一个个心中，也是说不出道不明叙不尽的担心忐忑，始终萦绕心头，那在军中的亲人，现在如何了？<br>　　<br>　　是否尚且安然？！<br>　　<br>　　然而更多的人却是喜悦，胜利的喜悦，还有从此再没有威胁的放松！<br>　　<br>　　那是全身心的放松，彻彻底底的安全了，所谓平安喜乐，不外如是！<br>　　<br>　　整个天唐城更是披红挂彩，城门处锣鼓喧天，大队人马大张旗鼓的准备迎接凯旋归来的战场勇士，<br>　　<br>　　长长的红地毯，从城门处一路铺出去，一眼看不到头，似乎是绵延无尽。<br>　　<br>　　这一日，皇帝陛下亲自率领文武百官，前往迎接老元帅秋剑寒回归。<br>　　<br>　　此次出迎，已经不是单纯的城门相迎，甚至不是十里之外的相迎，而是直接离城百里的遥遥相候！<br>　　<br>　　能够让天子出迎，本身就已经是殊荣，一般来说，光只是在宫门口出迎，便已经算是极大的礼遇了。<br>　　<br>　　而去到城门出迎，非莫大功勋者不可得。<br>　　<br>　　至于到城门外十里相迎，却非卫国卫民之盖世军功者莫为，一国之主往往经历一朝也未必会有此一朝。<br>　　<br>　　而如玉唐皇帝陛下这般的百里出迎……却是自古至今，从未有过，亘古未见！<br>　　<br>　　后无来者不敢说，却一定是前无古人的！<br>　　<br>　　本来皇帝陛下提出来此次出迎百里迎候归来将士的时候，朝堂上大把人予以反对，尤其以礼部中人为甚，直言此法实在太过破格；然而皇帝陛下乾纲独断，直接一锤定音，将所有反对声浪悉数下去，生生地压了下去！<br>　　<br>　　“破格？怎么就破格了！玉唐边关四方鏖战，此役之下超过百万将士战死，百万忠魂归来；朕，哪怕是千里相迎，那也是理所应当！朕添为玉唐之主，岂能只顾安享太平？合该贪万民之生，怕一子之死！不过区区动身迎候，何足道哉，我尤嫌礼遇不足，寒了忠魂之心，此后这万里疆土，还有谁肯舍生忘死？！”<br>　　<br>　　寒风呼呼，朔雪飘飘。<br>　　<br>　　皇帝陛下一身明黄色衣袍，负手站在风雪之中，看着那风雪茫茫的前路，纹丝不动，静候保家卫国之勇士来归。<br>　　<br>　　……<br>　　<br>　　云扬与云侯方墨非白衣雪一路劫掠，哦不，一路替天行道，劫富济贫；终于快要到天唐城地界了。<br>　　<br>　　“往前五百里，大抵就是天唐城地域了，这条路终于要走完了。”<br>　　<br>　　云侯满足的笑了笑：“这一路走下来，还真被咱们凑够了十万万两白银……这就足够了。就地休息片刻整顿行装！大家都将自己整得精神一些。等到了临近的位置，再休整一把。之后一定要以最饱满的精气神，进入天唐城，决不能失了锐气！”<br>　　<br>　　“好！”<br>　　<br>　　相信经过这两次休息休整，整支归来军队的军容军貌一定可以焕然一新，重回巅峰状态。<br>　　<br>　　“对了，别光顾着拾到自己，记得将随军旗子都洗一洗，干干净净的才好。”<br>　　<br>　　云侯道：“既然是大胜而归，那就不容许出现任何的污点！那种烽烟战火的痕迹，不必再留在上面，咱们是胜利者，是赢家，方方面面都要做到周正。”<br>　　<br>　　对于云侯的这个做法，云扬简直想要拍掌叫好了，端的无声胜有声，高明至极。<br>　　<br>　　历来大军凯旋回归，主将往往都会做一件事：全然不加以整顿军容，带着伤痕累累的军队回归，旗帜军械乃至兵器马匹上，血迹污痕断裂比比皆是。<br>　　<br>　　让所有人都看到这一支军队，曾经经历过多么残酷的厮杀！<br>　　<br>　　此为，表功！<br>　　<br>　　而从某种意义上来说，也有着挟功请赏的意思；而皇帝在看到之后，必然会大加封赏；本来只升一级的，往往升两级；本来只赏赐一千两的，往往会到五千两。<br>　　<br>　　但这种做法，军中固然欢呼雀跃，但皇帝却未必心甘情愿，起码也有“被人胁迫不得不然”的那种隐隐的不舒服存在。<br>　　<br>　　而往往有些所谓的“功高震主”的罪名；便也是由此而埋下祸根。<br>　　<br>　　而云侯之做法，看似是反其道而行之，却不为失智，只会更加能收到震撼人心的效果！<br>　　<br>　　而且，皇帝陛下看到这一幕，除了赏心悦目之外，还不会生出“挟功请赏”这样的心思。<br>　　<br>　　端的一举数得！<br>　　<br>　　嗯，不知道是否还有一层效果，云侯跟云扬这对没有血缘只有名义上的父子，都是人样子极为出众的角色，只要条件允许，他们会惯性的展现出自身最出色的状态，这点，也有促成两人当前共识的部分因素！<br>　　<br>　　死爱漂亮不是女人的专利，男人也是爱帅爱靓的！<br>　　<br>　　而大军这边才刚刚驻扎下来不久，云侯便即急不可耐的催促着云扬道：“现在还有一点点缓冲时间，咱们再干上最后一票，你也说了，越是靠近京城的地界越是有钱，相信附近肯定有大把的油水……全是肥羊啊，放过岂不可惜？”<br>　　<br>　　云扬一时间瞠目结舌，哑口无言，半晌无语。<br>　　<br>　　敢情您在这个时候停下来，竟然还存有这等心思？<br>　　<br>　　再说了，油水……肥羊……这等说法，是能用在这里的么？<br>　　<br>　　我还真以为您有多么高大上的政治觉悟呢……<br>　　<br>　　但下一刻，在场的四个人同时皱起了眉头。<br>　　<br>　　这四人齐齐感应到一股庞然气势，全无征兆的到来了，宛如从天而降，蓦然显临。<br>　　<br>　　云侯一步迈出，将云扬挡在身后，腰间长剑“锵”的一声出鞘，断喝一声道：“何方高人，前来我玉唐军营一会？”<br>　　<br>　　半空中骤起一声吟哦：“千古兴亡谁能定，江山社稷落谁家；谁将浮云聚做笔，谁能摘星吞烟霞……”<br>　　<br>　　来人话语声音淡然，充满了超然出尘脱俗之气。<br>　　<br>　　云扬的嘴角却是即时抽搐了一下。<br>　　<br>　　这突然到来的人还不知道是什么来投，但是……那股浓浓的逼味儿却已经先一步扑面而来！<br>　　<br>　　“不装逼能死啊！”<br>　　<br>　　一边的冬天冷撇撇嘴翻着白眼，替云扬道出了心声。<br>　　<br>　　几乎在同时，一道冷电一般的目光宛如透过了无边雪幕，从半空云层之上，直射下来，盯在冬天冷脸上。<br>　　<br>　　但旋即移开，未做丝毫停留，忽视不屑与一只蝼蚁兜缠纠葛。<br>　　<br>　　下一刻。<br>　　<br>　　天际风雪翻涌，一片黑云也似的黑幕突然从天空落下，定睛触目仔细看去，那黑幕乃是一个身披黑色大氅的人，身后的那领黑色大氅便如无穷黑云翻滚，凭空生出来一股子宛如要遮蔽掉整片苍穹的微妙感觉！<br>　　<br>　　那人从空中缓缓落下，仙味似乎更浓郁了一分，便如一片雪花，在空中轻盈的往下坠落，速度极慢；黑发高冠，黑衣黑袍黑披风，腰间一把剑，一只白玉一般的手，就按在剑柄上。<br>　　<br>　　来人面貌清癯，容貌高古，下颌三缕黑髯，轻轻飘动。<br>　　<br>　　让人搭眼一看，就感觉此人不是尘世中人，端的陆地神仙，不堕凡尘。<br>　　<br>　　而且此人的修为，更是已臻登峰造极之高深层次。<br>　　<br>　　嗯，这个不是凭气机感应出来，那人从高空云层之中缓缓飘落，到了离地三丈的地方，赫然生生地顿住了，就这么站在虚空之中，凭虚而立！<br>　　<br>　　任何人看见，都不免要叹服其玄功超妙，修为精深，极为了得！<br>　　<br>　　然而云扬心下却又自腹诽了一句，装逼上瘾了么？真以为自己是神仙，不染红尘啊？！<br>　　<br>　　却见来人仍自虚空屹立，还淡然地向前踱了两步，一如脚踏实地一般，这才淡淡开口道：“此地谁是玉唐皇族中人？”</p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Duke/" rel="tag"># Duke</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2018/04/20/我是至尊/ 第二百二十四章 斜眼!/" rel="next" title="第二百二十四章 斜眼!">
+                <i class="fa fa-chevron-left"></i> 第二百二十四章 斜眼!
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2018/04/20/我是至尊/ 第二百二十五章 此人是谁?/" rel="prev" title="第二百二十五章 此人是谁?">
+                第二百二十五章 此人是谁? <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+
+      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/logo.png"
+                alt="DDuke" />
+            
+              <p class="site-author-name" itemprop="name">DDuke</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/">
+                
+                    <span class="site-state-item-count">1024</span>
+                    <span class="site-state-item-name">日志</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-categories">
+                  <a href="/categories/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">分类</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                    <span class="site-state-item-count">1</span>
+                    <span class="site-state-item-name">标签</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+            
+          
+          
+
+        </div>
+      </section>
+
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2018</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">DDuke</span>
+
+  
+
+  
+</div>
+
+
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/theme-next/hexo-theme-next">NexT.Mist</a> v6.0.3</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=6.0.3"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=6.0.3"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.0.3"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=6.0.3"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.0.3"></script>
+
+
+
+  
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    var isXml = true;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length === 0) {
+      search_path = "search.xml";
+    } else if (/json$/i.test(search_path)) {
+      isXml = false;
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    var onPopupClose = function (e) {
+      $('.popup').hide();
+      $('#local-search-input').val('');
+      $('.search-result-list').remove();
+      $('#no-result').remove();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    }
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.search-popup-overlay').click(onPopupClose);
+      $('.popup').toggle();
+      var $localSearchInput = $('#local-search-input');
+      $localSearchInput.attr("autocapitalize", "none");
+      $localSearchInput.attr("autocorrect", "off");
+      $localSearchInput.focus();
+    }
+
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+
+      // start loading animation
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay">' +
+          '<div id="search-loading-icon">' +
+          '<i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>' +
+          '</div>' +
+          '</div>')
+        .css('overflow', 'hidden');
+      $("#search-loading-icon").css('margin', '20% auto 0 auto').css('text-align', 'center');
+
+      
+
+      $.ajax({
+        url: path,
+        dataType: isXml ? "xml" : "json",
+        async: true,
+        success: function(res) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = isXml ? $("entry", res).map(function() {
+            return {
+              title: $("title", this).text(),
+              content: $("content",this).text(),
+              url: $("url" , this).text()
+            };
+          }).get() : res;
+          var input = document.getElementById(search_id);
+          var resultContent = document.getElementById(content_id);
+          var inputEventFunction = function() {
+            var searchText = input.value.trim().toLowerCase();
+            var keywords = searchText.split(/[\s\-]+/);
+            if (keywords.length > 1) {
+              keywords.push(searchText);
+            }
+            var resultItems = [];
+            if (searchText.length > 0) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var hitCount = 0;
+                var searchTextCount = 0;
+                var title = data.title.trim();
+                var titleInLowerCase = title.toLowerCase();
+                var content = data.content.trim().replace(/<[^>]+>/g,"");
+                
+                var contentInLowerCase = content.toLowerCase();
+                var articleUrl = decodeURIComponent(data.url);
+                var indexOfTitle = [];
+                var indexOfContent = [];
+                // only match articles with not empty titles
+                if(title != '') {
+                  keywords.forEach(function(keyword) {
+                    function getIndexByWord(word, text, caseSensitive) {
+                      var wordLen = word.length;
+                      if (wordLen === 0) {
+                        return [];
+                      }
+                      var startPosition = 0, position = [], index = [];
+                      if (!caseSensitive) {
+                        text = text.toLowerCase();
+                        word = word.toLowerCase();
+                      }
+                      while ((position = text.indexOf(word, startPosition)) > -1) {
+                        index.push({position: position, word: word});
+                        startPosition = position + wordLen;
+                      }
+                      return index;
+                    }
+
+                    indexOfTitle = indexOfTitle.concat(getIndexByWord(keyword, titleInLowerCase, false));
+                    indexOfContent = indexOfContent.concat(getIndexByWord(keyword, contentInLowerCase, false));
+                  });
+                  if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
+                    isMatch = true;
+                    hitCount = indexOfTitle.length + indexOfContent.length;
+                  }
+                }
+
+                // show search results
+
+                if (isMatch) {
+                  // sort index by position of keyword
+
+                  [indexOfTitle, indexOfContent].forEach(function (index) {
+                    index.sort(function (itemLeft, itemRight) {
+                      if (itemRight.position !== itemLeft.position) {
+                        return itemRight.position - itemLeft.position;
+                      } else {
+                        return itemLeft.word.length - itemRight.word.length;
+                      }
+                    });
+                  });
+
+                  // merge hits into slices
+
+                  function mergeIntoSlice(text, start, end, index) {
+                    var item = index[index.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    var hits = [];
+                    var searchTextCountInSlice = 0;
+                    while (position + word.length <= end && index.length != 0) {
+                      if (word === searchText) {
+                        searchTextCountInSlice++;
+                      }
+                      hits.push({position: position, length: word.length});
+                      var wordEnd = position + word.length;
+
+                      // move to next position of hit
+
+                      index.pop();
+                      while (index.length != 0) {
+                        item = index[index.length - 1];
+                        position = item.position;
+                        word = item.word;
+                        if (wordEnd > position) {
+                          index.pop();
+                        } else {
+                          break;
+                        }
+                      }
+                    }
+                    searchTextCount += searchTextCountInSlice;
+                    return {
+                      hits: hits,
+                      start: start,
+                      end: end,
+                      searchTextCount: searchTextCountInSlice
+                    };
+                  }
+
+                  var slicesOfTitle = [];
+                  if (indexOfTitle.length != 0) {
+                    slicesOfTitle.push(mergeIntoSlice(title, 0, title.length, indexOfTitle));
+                  }
+
+                  var slicesOfContent = [];
+                  while (indexOfContent.length != 0) {
+                    var item = indexOfContent[indexOfContent.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    // cut out 100 characters
+                    var start = position - 20;
+                    var end = position + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if (end < position + word.length) {
+                      end = position + word.length;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    slicesOfContent.push(mergeIntoSlice(content, start, end, indexOfContent));
+                  }
+
+                  // sort slices in content by search text's count and hits' count
+
+                  slicesOfContent.sort(function (sliceLeft, sliceRight) {
+                    if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
+                      return sliceRight.searchTextCount - sliceLeft.searchTextCount;
+                    } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
+                      return sliceRight.hits.length - sliceLeft.hits.length;
+                    } else {
+                      return sliceLeft.start - sliceRight.start;
+                    }
+                  });
+
+                  // select top N slices in content
+
+                  var upperBound = parseInt('1');
+                  if (upperBound >= 0) {
+                    slicesOfContent = slicesOfContent.slice(0, upperBound);
+                  }
+
+                  // highlight title and content
+
+                  function highlightKeyword(text, slice) {
+                    var result = '';
+                    var prevEnd = slice.start;
+                    slice.hits.forEach(function (hit) {
+                      result += text.substring(prevEnd, hit.position);
+                      var end = hit.position + hit.length;
+                      result += '<b class="search-keyword">' + text.substring(hit.position, end) + '</b>';
+                      prevEnd = end;
+                    });
+                    result += text.substring(prevEnd, slice.end);
+                    return result;
+                  }
+
+                  var resultItem = '';
+
+                  if (slicesOfTitle.length != 0) {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + highlightKeyword(title, slicesOfTitle[0]) + "</a>";
+                  } else {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + title + "</a>";
+                  }
+
+                  slicesOfContent.forEach(function (slice) {
+                    resultItem += "<a href='" + articleUrl + "'>" +
+                      "<p class=\"search-result\">" + highlightKeyword(content, slice) +
+                      "...</p>" + "</a>";
+                  });
+
+                  resultItem += "</li>";
+                  resultItems.push({
+                    item: resultItem,
+                    searchTextCount: searchTextCount,
+                    hitCount: hitCount,
+                    id: resultItems.length
+                  });
+                }
+              })
+            };
+            if (keywords.length === 1 && keywords[0] === "") {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
+            } else if (resultItems.length === 0) {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
+            } else {
+              resultItems.sort(function (resultLeft, resultRight) {
+                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
+          }
+
+          if ('auto' === 'auto') {
+            input.addEventListener('input', inputEventFunction);
+          } else {
+            $('.search-icon').click(inputEventFunction);
+            input.addEventListener('keypress', function (event) {
+              if (event.keyCode === 13) {
+                inputEventFunction();
+              }
+            });
+          }
+
+          // remove loading animation
+          $(".local-search-pop-overlay").remove();
+          $('body').css('overflow', '');
+
+          proceedsearch();
+        }
+      });
+    }
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

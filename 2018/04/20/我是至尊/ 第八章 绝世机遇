@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next mist use-motion" lang="zh-CN">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=6.0.3" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.0.3">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.0.3">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.0.3">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.0.3" color="#222">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Mist',
+    version: '6.0.3',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+  
+  <meta name="keywords" content="Duke," />
+
+
+<meta name="description" content="云扬更感觉蓦然一阵撕心裂肺一般的剧痛，丹田之中积存的紫金液瞬时消失殆尽，神魂也是一阵摇曳，一股恍惚颓然的感觉油然升起，差一点点就脱出了风相化体的范畴，从高空直堕下去。 　　　　这黑袍老者一剑的威能所向，竟是直指神魂，销魂蚀神，神亡魂灭！　　　　云扬此刻乃是风云雷三相同化，化体一半凝风，一半成云，还有一丝神念化闪电而落；是以神识神魂，也因而分做了大小不同的三部分。　　　　龙卷风这边只是云扬一半的修为">
+<meta name="keywords" content="Duke">
+<meta property="og:type" content="article">
+<meta property="og:title" content="第八章 绝世机遇?">
+<meta property="og:url" content="http://yoursite.com/2018/04/20/我是至尊/ 第八章 绝世机遇">
+<meta property="og:site_name" content="DDuke 小屋">
+<meta property="og:description" content="云扬更感觉蓦然一阵撕心裂肺一般的剧痛，丹田之中积存的紫金液瞬时消失殆尽，神魂也是一阵摇曳，一股恍惚颓然的感觉油然升起，差一点点就脱出了风相化体的范畴，从高空直堕下去。 　　　　这黑袍老者一剑的威能所向，竟是直指神魂，销魂蚀神，神亡魂灭！　　　　云扬此刻乃是风云雷三相同化，化体一半凝风，一半成云，还有一丝神念化闪电而落；是以神识神魂，也因而分做了大小不同的三部分。　　　　龙卷风这边只是云扬一半的修为">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:updated_time" content="2018-04-20T08:12:05.886Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="第八章 绝世机遇?">
+<meta name="twitter:description" content="云扬更感觉蓦然一阵撕心裂肺一般的剧痛，丹田之中积存的紫金液瞬时消失殆尽，神魂也是一阵摇曳，一股恍惚颓然的感觉油然升起，差一点点就脱出了风相化体的范畴，从高空直堕下去。 　　　　这黑袍老者一剑的威能所向，竟是直指神魂，销魂蚀神，神亡魂灭！　　　　云扬此刻乃是风云雷三相同化，化体一半凝风，一半成云，还有一丝神念化闪电而落；是以神识神魂，也因而分做了大小不同的三部分。　　　　龙卷风这边只是云扬一半的修为">
+
+
+
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2018/04/20/我是至尊/ 第八章 绝世机遇"/>
+
+
+
+<script type="text/javascript" id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+  <title>第八章 绝世机遇? | DDuke 小屋</title>
+  
+
+
+
+
+
+
+
+
+
+  <noscript>
+  <style type="text/css">
+    .use-motion .motion-element,
+    .use-motion .brand,
+    .use-motion .menu-item,
+    .sidebar-inner,
+    .use-motion .post-block,
+    .use-motion .pagination,
+    .use-motion .comments,
+    .use-motion .post-header,
+    .use-motion .post-body,
+    .use-motion .collection-title { opacity: initial; }
+
+    .use-motion .logo,
+    .use-motion .site-title,
+    .use-motion .site-subtitle {
+      opacity: initial;
+      top: initial;
+    }
+
+    .use-motion {
+      .logo-line-before i { left: initial; }
+      .logo-line-after i { right: initial; }
+    }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"> <div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">DDuke 小屋</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-th"></i> <br />分类</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档</a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />搜索</a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="搜索..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+  
+
+
+
+ </div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/20/我是至尊/ 第八章 绝世机遇?/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="DDuke">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/logo.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DDuke 小屋">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">第八章 绝世机遇?</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-04-20T16:12:05+08:00">2018-04-20</time>
+            
+
+            
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/我是至尊/" itemprop="url" rel="index"><span itemprop="name">我是至尊</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <pre><code>云扬更感觉蓦然一阵撕心裂肺一般的剧痛，丹田之中积存的紫金液瞬时消失殆尽，神魂也是一阵摇曳，一股恍惚颓然的感觉油然升起，差一点点就脱出了风相化体的范畴，从高空直堕下去。
+</code></pre><p>　　<br>　　这黑袍老者一剑的威能所向，竟是直指神魂，销魂蚀神，神亡魂灭！<br>　　<br>　　云扬此刻乃是风云雷三相同化，化体一半凝风，一半成云，还有一丝神念化闪电而落；是以神识神魂，也因而分做了大小不同的三部分。<br>　　<br>　　龙卷风这边只是云扬一半的修为功体所化。<br>　　<br>　　若非如此，这骤来的一剑，足以将云扬亦如那龙卷风一般一分为二！<br>　　<br>　　但饶是如此，云扬此际仍旧是受到了相当沉重的伤势，神魂更是重创。毕竟，龙卷风化相被来人一剑劈落一半，这份创伤已是严重至极。<br>　　<br>　　云扬强行催动生生不息神功，绿绿也远远不断地输出生命之气，勉力支撑。<br>　　<br>　　将自身残余力量一股脑鼓尽，做最后一搏！<br>　　<br>　　龙卷风轰的一声，终于冲上高空。<br>　　<br>　　那老者剑势已尽，来不及再次出手。<br>　　<br>　　随着呜的一声嘶鸣，龙卷风冲天而去，急疾远走。<br>　　<br>　　天空之上，一朵白云悠悠而来，托住了冲天而起的龙卷风，持续升腾，眨眼间已经去到了数百丈的高空之上，穿破了正在下大雪的乌云，旋即消失得无影无踪。<br>　　<br>　　一片寂静！<br>　　<br>　　黑衣老者手持长剑，于百丈高空缓缓落下，眼中，尽都是震惊莫名！<br>　　<br>　　还有地上的那位青年少主，同样也是瞪大了眼睛，仰头看着天空乌云，眼神中一片震骇！<br>　　<br>　　这是什么人！？<br>　　<br>　　这是什么功法？！<br>　　<br>　　自己两人先后出手拦截，这样的威力，可说已经是竭尽全力，足堪移山填海，但是……却似乎是对那龙卷风没有造成半点影响！<br>　　<br>　　最少从表面看去，对方以轻描淡写的态势，从容而去！<br>　　<br>　　“这是什么功法？怎地诡异至斯？”这位少主脱口问道。<br>　　<br>　　“这个……”黑袍老者苦笑一声：“当真从未见过，甚至从未听过……”<br>　　<br>　　青年少主紧紧蹙着眉头，道：“那……那是一个人？”<br>　　<br>　　黑袍老者脸色沉重，默然不言，半晌无语。<br>　　<br>　　那龙卷风乃是人为，施招者更是寄身于风云，此点已经是确定无疑！<br>　　<br>　　但究竟是什么人能够完全身化风相？连肉体的一点痕迹都没有？<br>　　<br>　　自己刚才的攻击，虽然只斩落半数龙卷，但以对方所展现的手段而论，整条龙卷风都该是其身躯化相，斩落一半就该是斩落其部分肉身，怎地只有玄气散溢，并不曾当真伤及其肉身，此等功法，可惊可怖！<br>　　<br>　　同时也是太奇怪了一点！<br>　　<br>　　以老者丰富阅历，对自身所知的所有神妙功法之中，可以短时间身化风雷的，绝不在少数。但，这所谓的“身化风雷”却就只是一个说法而已！<br>　　<br>　　因为无论施招者展现如何炫目，如何有若风雷的表象，身体仍旧真实存在！<br>　　<br>　　若是对方觑准了其本体一剑斩断，那么所谓的身化风雷，也就只是一个笑话而已！<br>　　<br>　　但刚才的事情却是清楚明白，委实是有人化风而来，从天而降，始终未曾显现真身，直接以龙卷风的姿态，将两女就那么卷了起来，然后，直接腾上九霄而去！<br>　　<br>　　甚至其间身中分尸一剑，也仅限于部分玄气散离，真身不但未曾受损，更是全未现身。<br>　　<br>　　这又岂能不令那青年与老者震惊莫名，惊怖交集！<br>　　<br>　　“不意这两个丫头竟有这样的强援！”<br>　　<br>　　青年少主吸了一口气，道：“难怪她们一直坚持，一直在等救援，始终未曾放弃……原来如此！”<br>　　<br>　　他皱起眉头，道：“既然有如此人物作梗，那么……我们之前所有的布置，只怕就要尽数化作流水了？就算是以后找到了，却又怎能与这般神话一般的高手相争？”<br>　　<br>　　他的口气之中，除了满满的失落之外，还夹杂着一股子发自内心的恐惧。<br>　　<br>　　虽有强烈不甘于心，却已经就此认命，不欲再节外生枝。<br>　　<br>　　这样的手段，已经近乎无法理解！<br>　　<br>　　与这样的人物对敌，岂不是自己找死？<br>　　<br>　　“少主，这件事只怕另有蹊跷，未必便无转机。”黑袍老者想了想，道：“在我看来，我们的布置未必就无效了。”<br>　　<br>　　青年少主阴沉着脸，道：“哦？怎么说？”<br>　　<br>　　“老奴虽然震惊于刚才那人所显现的化相神通，但窃以为……若是这人当真拥有公子所想的那般功参造化的修为，那么……说句不好听的，既然此人与计灵犀月如兰颇有交情……那么他眼看着这两个女子被公子如此欺凌，岂能善罢甘休？”<br>　　<br>　　黑袍老者道。<br>　　<br>　　“这话说的确实有道理。”青年少主忧虑的说道：“若是此人来寻仇，却又如何是好？以这等神出鬼没的绝世高手来说……咱们家族……”<br>　　<br>　　“公子误会了，老奴说的不是这个意思。”<br>　　<br>　　黑袍老者佝偻着身子，道：“老奴的意思是说……就在刚才，他若是真有这般能耐，就应该将我们全部斩尽杀绝。”<br>　　<br>　　“以我们所见到的那般手段，无法理解的天象化相功法而论，早已凌驾于这个大陆的层次太多。想要灭杀我们，应该不难。纵然他的目的以救走那两个女子为优先，但在那之后……杀死我们，却仍旧不难。但他却没有这么做！”<br>　　<br>　　黑袍老者道：“非但没有，而且他自始至终，都没有现身。”<br>　　<br>　　“这对于这种超级高手来说，未免太不寻常！”<br>　　<br>　　“难道他只是为了救人？全然不考虑为这两个女子报仇出气？这才是老奴所说不合理、蹊跷的地方。”<br>　　<br>　　“那人既然能够万里迢迢赶来救人，相信他们之间的关系肯定非比寻常。既然是非比寻常，那么只要他真的有超级实力的话，合该痛下杀手，狙杀取命才是正理！”<br>　　<br>　　“但他却没有那么做！而他不为，非是他不想为，而是不能为！无能为！”<br>　　<br>　　“此外，还有一桩蹊跷事更在于，刚才交手过程只得一瞬，彼此了解颇为有限，但自始至终，对方全程都给老奴留下了一种非常匆忙的感觉，似乎是……匆匆而来，狼狈而去……就是这样的一种感觉，绝非居高临下，信手而为，又或者是不屑为，随意而动的那种感觉。”<br>　　<br>　　那青年少主认真听着那黑衣老者的分析，之后还打断其说词，不断地让其重复诉说。<br>　　<br>　　越听眼睛越亮，原本隐于眼底的恐惧之色越来越淡。<br>　　<br>　　“……还有那龙卷风，看起来固然是声势骇人，但对于我们来说，并没有真正意义上的杀伤力……至少威力与我们的预判，大相径庭，渺不足道。”<br>　　<br>　　“若对方真是绝世高手，又有这等奇妙功法加持，大可借助龙卷风的走势将我们一起击杀，这绝非是难事。至少易位而处，换作我们的话，绝对不会放过，将自己的亲人欺凌成这样的人……”<br>　　<br>　　“所以……老奴对此事的判断就是……对方所用功法固然奇异玄妙，但或者是对方功力修为尚浅，或者有所不足，总之就是仅限于唬人而已，当真用于对阵杀敌……不过尔尔……”<br>　　<br>　　“所以对方的目的，应该只是救人！”<br>　　<br>　　“从其匆匆而来，将人救走便即狼狈逃窜的状况来判断，对方对我们未必没有恶意，却是心有余而力不足！”<br>　　<br>　　黑袍老者道：“对于天玄大陆而言，我们家族已经很久很久没有履足红尘；也不知道现在这片大陆有什么具体的变化……”<br>　　<br>　　“但若是真的如老奴猜测，真存在有这种功法的话……那么对方在这片大陆之上，绝对不会是籍籍无名之辈！”<br>　　<br>　　“所以我们只要稍加打听，估计就能得到消息……只要有了消息，我们就能确定下一步行动。”<br>　　<br>　　青年少主一边听，一边连连点头，脸上又恢复了笑容，道：“不错！不错！就算在这个打探的过程中，确认到对方本身真的是那种我们无法抗衡的高手，乃至对方背后尚有其他长辈，真正意义上的超级强者，我们仍有回旋余地，当真不行……我们随时可以回返本家；只要将灵气通道封闭，任对方有通天彻地之能，我们仍旧可以高枕无忧。”<br>　　<br>　　“但若是……”青年少主眼中闪过一丝阴狠的光芒。<br>　　<br>　　“但若对方并不是那种绝世高手，亦无顶尖强者为其撑腰的话……”黑袍老者微笑道：“那么，老奴就要恭喜少主……不仅那混乱元阴可失而复得，大道可期，更可……获取得到一篇足堪独步玄黄界的超妙功法！”<br>　　<br>　　“正是如此！哈哈哈哈……”<br>　　<br>　　……<br>　　<br>　　大雪仍旧绵绵不停落下，天地之间，连山峦也似乎失去了起伏，只余一片茫茫。<br>　　<br>　　距离那座山林不远处一座小城之中。<br>　　<br>　　黑袍老者与青年少主正坐在一间酒肆中，聚精会神的听人高谈阔论。<br>　　<br>　　此际大雪封山，四处道路皆已不通，除了那种艺高人胆大的江湖高手之外，普通人当真就只能近寻找客栈酒家落脚，暂避大雪。<br>　　<br>　　是以这场大雪笼罩范围之内的每一处客栈酒家，全都是人满为患，就当前状况，想要打探消息，实在是轻而易举。<br>　　<br>　　“哦？那九尊大人，竟然有如此威力？这岂不是神仙一般的手段了么？”黑袍老者一脸好奇的看着对面一脸酒气，正夸夸其谈的胖子。<br>　　<br>　　…………<br>　　<br>　　天才本站地址：.。手机版阅读网址：m.
+　　</p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Duke/" rel="tag"># Duke</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2018/04/20/我是至尊/ 第七章 风卷龙腾霹雳闪!/" rel="next" title="第七章 风卷龙腾霹雳闪!">
+                <i class="fa fa-chevron-left"></i> 第七章 风卷龙腾霹雳闪!
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2018/04/20/我是至尊/ 第九章 云府相聚/" rel="prev" title="第九章 云府相聚">
+                第九章 云府相聚 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+
+      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/logo.png"
+                alt="DDuke" />
+            
+              <p class="site-author-name" itemprop="name">DDuke</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/">
+                
+                    <span class="site-state-item-count">1024</span>
+                    <span class="site-state-item-name">日志</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-categories">
+                  <a href="/categories/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">分类</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                    <span class="site-state-item-count">1</span>
+                    <span class="site-state-item-name">标签</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+            
+          
+          
+
+        </div>
+      </section>
+
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2018</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">DDuke</span>
+
+  
+
+  
+</div>
+
+
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/theme-next/hexo-theme-next">NexT.Mist</a> v6.0.3</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=6.0.3"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=6.0.3"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.0.3"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=6.0.3"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.0.3"></script>
+
+
+
+  
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    var isXml = true;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length === 0) {
+      search_path = "search.xml";
+    } else if (/json$/i.test(search_path)) {
+      isXml = false;
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    var onPopupClose = function (e) {
+      $('.popup').hide();
+      $('#local-search-input').val('');
+      $('.search-result-list').remove();
+      $('#no-result').remove();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    }
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.search-popup-overlay').click(onPopupClose);
+      $('.popup').toggle();
+      var $localSearchInput = $('#local-search-input');
+      $localSearchInput.attr("autocapitalize", "none");
+      $localSearchInput.attr("autocorrect", "off");
+      $localSearchInput.focus();
+    }
+
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+
+      // start loading animation
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay">' +
+          '<div id="search-loading-icon">' +
+          '<i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>' +
+          '</div>' +
+          '</div>')
+        .css('overflow', 'hidden');
+      $("#search-loading-icon").css('margin', '20% auto 0 auto').css('text-align', 'center');
+
+      
+
+      $.ajax({
+        url: path,
+        dataType: isXml ? "xml" : "json",
+        async: true,
+        success: function(res) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = isXml ? $("entry", res).map(function() {
+            return {
+              title: $("title", this).text(),
+              content: $("content",this).text(),
+              url: $("url" , this).text()
+            };
+          }).get() : res;
+          var input = document.getElementById(search_id);
+          var resultContent = document.getElementById(content_id);
+          var inputEventFunction = function() {
+            var searchText = input.value.trim().toLowerCase();
+            var keywords = searchText.split(/[\s\-]+/);
+            if (keywords.length > 1) {
+              keywords.push(searchText);
+            }
+            var resultItems = [];
+            if (searchText.length > 0) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var hitCount = 0;
+                var searchTextCount = 0;
+                var title = data.title.trim();
+                var titleInLowerCase = title.toLowerCase();
+                var content = data.content.trim().replace(/<[^>]+>/g,"");
+                
+                var contentInLowerCase = content.toLowerCase();
+                var articleUrl = decodeURIComponent(data.url);
+                var indexOfTitle = [];
+                var indexOfContent = [];
+                // only match articles with not empty titles
+                if(title != '') {
+                  keywords.forEach(function(keyword) {
+                    function getIndexByWord(word, text, caseSensitive) {
+                      var wordLen = word.length;
+                      if (wordLen === 0) {
+                        return [];
+                      }
+                      var startPosition = 0, position = [], index = [];
+                      if (!caseSensitive) {
+                        text = text.toLowerCase();
+                        word = word.toLowerCase();
+                      }
+                      while ((position = text.indexOf(word, startPosition)) > -1) {
+                        index.push({position: position, word: word});
+                        startPosition = position + wordLen;
+                      }
+                      return index;
+                    }
+
+                    indexOfTitle = indexOfTitle.concat(getIndexByWord(keyword, titleInLowerCase, false));
+                    indexOfContent = indexOfContent.concat(getIndexByWord(keyword, contentInLowerCase, false));
+                  });
+                  if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
+                    isMatch = true;
+                    hitCount = indexOfTitle.length + indexOfContent.length;
+                  }
+                }
+
+                // show search results
+
+                if (isMatch) {
+                  // sort index by position of keyword
+
+                  [indexOfTitle, indexOfContent].forEach(function (index) {
+                    index.sort(function (itemLeft, itemRight) {
+                      if (itemRight.position !== itemLeft.position) {
+                        return itemRight.position - itemLeft.position;
+                      } else {
+                        return itemLeft.word.length - itemRight.word.length;
+                      }
+                    });
+                  });
+
+                  // merge hits into slices
+
+                  function mergeIntoSlice(text, start, end, index) {
+                    var item = index[index.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    var hits = [];
+                    var searchTextCountInSlice = 0;
+                    while (position + word.length <= end && index.length != 0) {
+                      if (word === searchText) {
+                        searchTextCountInSlice++;
+                      }
+                      hits.push({position: position, length: word.length});
+                      var wordEnd = position + word.length;
+
+                      // move to next position of hit
+
+                      index.pop();
+                      while (index.length != 0) {
+                        item = index[index.length - 1];
+                        position = item.position;
+                        word = item.word;
+                        if (wordEnd > position) {
+                          index.pop();
+                        } else {
+                          break;
+                        }
+                      }
+                    }
+                    searchTextCount += searchTextCountInSlice;
+                    return {
+                      hits: hits,
+                      start: start,
+                      end: end,
+                      searchTextCount: searchTextCountInSlice
+                    };
+                  }
+
+                  var slicesOfTitle = [];
+                  if (indexOfTitle.length != 0) {
+                    slicesOfTitle.push(mergeIntoSlice(title, 0, title.length, indexOfTitle));
+                  }
+
+                  var slicesOfContent = [];
+                  while (indexOfContent.length != 0) {
+                    var item = indexOfContent[indexOfContent.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    // cut out 100 characters
+                    var start = position - 20;
+                    var end = position + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if (end < position + word.length) {
+                      end = position + word.length;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    slicesOfContent.push(mergeIntoSlice(content, start, end, indexOfContent));
+                  }
+
+                  // sort slices in content by search text's count and hits' count
+
+                  slicesOfContent.sort(function (sliceLeft, sliceRight) {
+                    if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
+                      return sliceRight.searchTextCount - sliceLeft.searchTextCount;
+                    } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
+                      return sliceRight.hits.length - sliceLeft.hits.length;
+                    } else {
+                      return sliceLeft.start - sliceRight.start;
+                    }
+                  });
+
+                  // select top N slices in content
+
+                  var upperBound = parseInt('1');
+                  if (upperBound >= 0) {
+                    slicesOfContent = slicesOfContent.slice(0, upperBound);
+                  }
+
+                  // highlight title and content
+
+                  function highlightKeyword(text, slice) {
+                    var result = '';
+                    var prevEnd = slice.start;
+                    slice.hits.forEach(function (hit) {
+                      result += text.substring(prevEnd, hit.position);
+                      var end = hit.position + hit.length;
+                      result += '<b class="search-keyword">' + text.substring(hit.position, end) + '</b>';
+                      prevEnd = end;
+                    });
+                    result += text.substring(prevEnd, slice.end);
+                    return result;
+                  }
+
+                  var resultItem = '';
+
+                  if (slicesOfTitle.length != 0) {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + highlightKeyword(title, slicesOfTitle[0]) + "</a>";
+                  } else {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + title + "</a>";
+                  }
+
+                  slicesOfContent.forEach(function (slice) {
+                    resultItem += "<a href='" + articleUrl + "'>" +
+                      "<p class=\"search-result\">" + highlightKeyword(content, slice) +
+                      "...</p>" + "</a>";
+                  });
+
+                  resultItem += "</li>";
+                  resultItems.push({
+                    item: resultItem,
+                    searchTextCount: searchTextCount,
+                    hitCount: hitCount,
+                    id: resultItems.length
+                  });
+                }
+              })
+            };
+            if (keywords.length === 1 && keywords[0] === "") {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
+            } else if (resultItems.length === 0) {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
+            } else {
+              resultItems.sort(function (resultLeft, resultRight) {
+                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
+          }
+
+          if ('auto' === 'auto') {
+            input.addEventListener('input', inputEventFunction);
+          } else {
+            $('.search-icon').click(inputEventFunction);
+            input.addEventListener('keypress', function (event) {
+              if (event.keyCode === 13) {
+                inputEventFunction();
+              }
+            });
+          }
+
+          // remove loading animation
+          $(".local-search-pop-overlay").remove();
+          $('body').css('overflow', '');
+
+          proceedsearch();
+        }
+      });
+    }
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

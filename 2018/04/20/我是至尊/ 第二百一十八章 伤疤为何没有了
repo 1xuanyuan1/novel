@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next mist use-motion" lang="zh-CN">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=6.0.3" rel="stylesheet" type="text/css" />
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=6.0.3">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=6.0.3">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=6.0.3">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=6.0.3" color="#222">
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Mist',
+    version: '6.0.3',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: false,
+    fastclick: false,
+    lazyload: false,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+  
+
+
+
+
+  
+  <meta name="keywords" content="Duke," />
+
+
+<meta name="description" content="&amp;amp;lt;!--divstyle=&amp;quot;color:#f00&amp;quot;&amp;amp;gt;热门推荐： 　　另一个帐篷里。　　　　这个帐篷密封着，门口有森严的守卫，如临大敌，一丝不苟。　　　　大战已经彻底宣告结束，计灵犀与月如兰第一时间就烧了两大锅水，彻彻底底地清洗了一下自己，然后检查身上的伤痕。　　　　这一连串大战下来，两女奋力杀敌，从来不甘落后；身上受的创伤自然也不在少数；虽然不会致命">
+<meta name="keywords" content="Duke">
+<meta property="og:type" content="article">
+<meta property="og:title" content="第二百一十八章 伤疤为何没有了?">
+<meta property="og:url" content="http://yoursite.com/2018/04/20/我是至尊/ 第二百一十八章 伤疤为何没有了">
+<meta property="og:site_name" content="DDuke 小屋">
+<meta property="og:description" content="&amp;amp;lt;!--divstyle=&amp;quot;color:#f00&amp;quot;&amp;amp;gt;热门推荐： 　　另一个帐篷里。　　　　这个帐篷密封着，门口有森严的守卫，如临大敌，一丝不苟。　　　　大战已经彻底宣告结束，计灵犀与月如兰第一时间就烧了两大锅水，彻彻底底地清洗了一下自己，然后检查身上的伤痕。　　　　这一连串大战下来，两女奋力杀敌，从来不甘落后；身上受的创伤自然也不在少数；虽然不会致命">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:updated_time" content="2018-04-20T08:15:39.591Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="第二百一十八章 伤疤为何没有了?">
+<meta name="twitter:description" content="&amp;amp;lt;!--divstyle=&amp;quot;color:#f00&amp;quot;&amp;amp;gt;热门推荐： 　　另一个帐篷里。　　　　这个帐篷密封着，门口有森严的守卫，如临大敌，一丝不苟。　　　　大战已经彻底宣告结束，计灵犀与月如兰第一时间就烧了两大锅水，彻彻底底地清洗了一下自己，然后检查身上的伤痕。　　　　这一连串大战下来，两女奋力杀敌，从来不甘落后；身上受的创伤自然也不在少数；虽然不会致命">
+
+
+
+
+
+
+  <link rel="canonical" href="http://yoursite.com/2018/04/20/我是至尊/ 第二百一十八章 伤疤为何没有了"/>
+
+
+
+<script type="text/javascript" id="page.configurations">
+  CONFIG.page = {
+    sidebar: "",
+  };
+</script>
+  <title>第二百一十八章 伤疤为何没有了? | DDuke 小屋</title>
+  
+
+
+
+
+
+
+
+
+
+  <noscript>
+  <style type="text/css">
+    .use-motion .motion-element,
+    .use-motion .brand,
+    .use-motion .menu-item,
+    .sidebar-inner,
+    .use-motion .post-block,
+    .use-motion .pagination,
+    .use-motion .comments,
+    .use-motion .post-header,
+    .use-motion .post-body,
+    .use-motion .collection-title { opacity: initial; }
+
+    .use-motion .logo,
+    .use-motion .site-title,
+    .use-motion .site-subtitle {
+      opacity: initial;
+      top: initial;
+    }
+
+    .use-motion {
+      .logo-line-before i { left: initial; }
+      .logo-line-after i { right: initial; }
+    }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"> <div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">DDuke 小屋</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />标签</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-th"></i> <br />分类</a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档</a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />搜索</a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="搜索..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+  
+
+
+
+ </div>
+    </header>
+
+    
+
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/20/我是至尊/ 第二百一十八章 伤疤为何没有了?/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="DDuke">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/logo.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="DDuke 小屋">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">第二百一十八章 伤疤为何没有了?</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-04-20T16:15:39+08:00">2018-04-20</time>
+            
+
+            
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/我是至尊/" itemprop="url" rel="index"><span itemprop="name">我是至尊</span></a></span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <pre><code>&amp;lt;!--divstyle=&quot;color:#f00&quot;&amp;gt;热门推荐：
+</code></pre><p>　　另一个帐篷里。<br>　　<br>　　这个帐篷密封着，门口有森严的守卫，如临大敌，一丝不苟。<br>　　<br>　　大战已经彻底宣告结束，计灵犀与月如兰第一时间就烧了两大锅水，彻彻底底地清洗了一下自己，然后检查身上的伤痕。<br>　　<br>　　这一连串大战下来，两女奋力杀敌，从来不甘落后；身上受的创伤自然也不在少数；虽然不会致命，更加不会残疾，但是……对于生性爱美的女子来说，身上哪怕有一道伤疤留存，那也是无法忍受的痛苦。<br>　　<br>　　现在就是要洗洗看看，那些个伤痕会不会影响到皮肤美貌，有没有可能祛除得干干净净……<br>　　<br>　　从头到脚，从胳膊到腿，从前胸到后背……<br>　　<br>　　月如兰的唉声叹气的声音不断地响起。<br>　　<br>　　“我的肩膀这里有一道伤痕……哎，还挺深，将来就算好了，也难免会留下疤痕……哎！”<br>　　<br>　　“锁骨这里居然也有一道……气死我了……”<br>　　<br>　　“后背这里应该是三道……”<br>　　<br>　　“小腹这里怎么也有一道？气死我了气死我了……”<br>　　<br>　　“屁股上也有……小腿上居然还有一道……灵犀灵犀气死我了……你看看后面的这几道，能不能消除？”<br>　　<br>　　“气死我了……”<br>　　<br>　　月如兰神神叨叨，一派抓狂，气急败坏，再不复平日里的沉稳镇静，看来美貌果然是女性的最最在乎的事情，平日里再如何的蕙质兰心都没用。<br>　　<br>　　但如此唠叨了好半天却始终没有听到对面的计灵犀那边有动静，不由的抬头：“你……啊！”<br>　　<br>　　突然一声惊叫：“你……你怎么……”<br>　　<br>　　对面的计灵犀也是一脸的惊诧，自己将自己震惊到了说不出话来，彻头彻尾的呆滞。<br>　　<br>　　“啊啊啊……”<br>　　<br>　　月如兰看着对面的计灵犀简直嫉妒得要发狂，直接从水盆里跳了起来，将计灵犀按倒在水里：“你你你……我记得你受的伤分明比我还多……要多很多多很多很多！……为什么你身上没有伤痕？！一点都没有？！”..<br>　　<br>　　“我不信，我仔细看看，仔细检查……你翻过来！我看看，给我看看……”<br>　　<br>　　计灵犀用手捂着胸口，弱弱的带着窃喜：“我也不知道，我真的有受过伤的……”<br>　　<br>　　“啊啊啊……”月如兰嫉妒的叫声。<br>　　<br>　　因为……计灵犀身上，居然满目尽是一片光滑，连哪怕一点点伤痕也是没有滴！<br>　　<br>　　嗯，就是哪怕任何一点点！<br>　　<br>　　简直比初生的婴儿还要细嫩光滑，完美无暇！<br>　　<br>　　似乎从小到大，压根就没有受任何伤损；甚至连常年练武的痕迹，在她身上也找不到半点！<br>　　<br>　　月如兰眼珠子都几乎瞪出来的仔细寻找，满眼尽是不可思议，不可置信。<br>　　<br>　　她分明记得，计灵犀与自己一起陷入敌人包围的时候，有好多次，自己有无数次，亲眼看到计灵犀受伤，鲜血飙飞，遍体鳞伤……<br>　　<br>　　对于杀敌，计灵犀比自己要拼命，自然也要比自己承受更多的伤损，而且还是多得多的那种多。<br>　　<br>　　刚才月如兰还在想着，如何宽慰计灵犀看淡伤疤这件事，自己表现得更在意一些，会不会更好一点……<br>　　<br>　　哪里想到，事情的结果居然是自己深深地受了刺激！<br>　　<br>　　不，分明是自己受到了最猛烈的伤害！<br>　　<br>　　计灵犀身上，竟然连哪怕一条头发丝那么大的伤痕也找不到！<br>　　<br>　　面对如此残酷的现实，月如兰崩溃了。<br>　　<br>　　她现在非常怀疑自己的眼睛。<br>　　<br>　　难道自己当初全都是看错了不成么？<br>　　<br>　　可是当日的那一箭，分明有射中了灵犀的肩膀，当时还是自己拼命击退敌人，然后亲手给灵犀拔出来，处理的伤口，那伤口虽不致命，但伤口极深，计灵犀还没怎地，自己已经先心疼得不行了，现在怎么……<br>　　<br>　　还有刀痕，那道分明斩在了灵犀上臂的刀伤，当时可是差点儿将一条胳膊砍下来……也是自己给包扎的伤口，绝对不会错的重伤啊，那刀痕哪去了……<br>　　<br>　　那一剑……<br>　　<br>　　那一……<br>　　<br>　　但是现在是怎么回事？<br>　　<br>　　这是什么情况？！<br>　　<br>　　“不许穿！”看到计灵犀站起来要穿衣服，月如兰一声大喝：“我还要再仔细检查检查，我不信，我还就不信了……”<br>　　<br>　　但如是看来看去，再三再四的检视，摸得计灵犀浑身都发烫了……愣是没有找到半点伤痕！<br>　　<br>　　“这到底是咋回事儿呢，太玄奇了吧……”<br>　　<br>　　月如兰失魂落魄的坐在水盆里，无意识的看着摸着自己身上的伤疤，看着计灵犀如同新剥鸡蛋一般的皮肤，陷入了深深的迷惘……<br>　　<br>　　“我突然感觉……这个世界……对我充满了深深的恶意……”月如兰用几近绝望的口气说道。<br>　　<br>　　计灵犀一边红着脸穿衣服，一边偷笑。<br>　　<br>　　刚才被兰姐好似女流氓一般浑身上下摸了好几遍，计灵犀感觉自己几乎要软了……<br>　　<br>　　咬着嘴唇说道：“我也不知道这是怎么回事……反正伤疤就是不见了呢……我原本还发愁呢……月姐，你说这是怎么回事呢……”<br>　　<br>　　月如兰悲愤地说道：“我怎么知道是怎么回事，这不应该啊，我分明看到……那么多的伤痕，现在怎么就一点都没有了？”<br>　　<br>　　“兰姐你好像对我身上没有伤疤很介意啊……”计灵犀噘着嘴。<br>　　<br>　　月如兰怒道：“我当然很介意，大家分明是一起受的伤，看我身上这么横七竖八的，你身上却是光光滑滑的，这让我心里怎么能平衡……”<br>　　<br>　　计灵犀转转眼珠，道：“其实……也没啥……有啥大不了的，了不起我以后让你多摸摸……就当你自己的……”<br>　　<br>　　月如兰大怒：“计灵犀！”<br>　　<br>　　随即便是计灵犀的娇笑求饶的声音。<br>　　<br>　　帐篷外。<br>　　<br>　　云扬摸了摸鼻子，径自转身离开。<br>　　<br>　　云扬也有眼见两女状况，本来想要过来慰问一下，结果遇到了这么香艳的一幕……云扬只是听了听，就感觉自己差一点就血脉贲张……<br>　　<br>　　刚才自己若是贸然求见，十之八九会被恼羞成怒的两女毫不客气的揍一顿吧？<br>　　<br>　　云扬明智的选择了离开。<br>　　<br>　　但是……云扬心里却也有与计灵犀月如兰同样的疑惑。<br>　　<br>　　听上官灵秀所说。<br>　　<br>　　“你过去看看计姑娘和约姑娘吧……她们两人尽都受伤都不少……而且有些伤势颇为严重……恐怕会留下疤痕。那是女儿家最不能接受的事情，你……”上官灵秀如此说道。<br>　　<br>　　“那灵秀姐你……难道你的身上就没有伤痕么？”云扬关切的问道：“严重么？要不要我帮你看看……”<br>　　<br>　　“滚出去！”<br>　　<br>　　情场小白云扬大少爷灰溜溜的走了。<br>　　<br>　　然后来到这里，无巧不巧地遇到了两女正在讨论伤疤……<br>　　<br>　　于是云大少爷这次连进去都没有进去，仍旧是灰溜溜的走了……<br>　　<br>　　因为云扬笃信，若是自己当真进去的话，待遇绝对不会比在上官灵秀那里那一句滚出去更加好，或者会严重惨淡许多倍也说不定。<br>　　<br>　　就此离开的云大少爷，自然也就没有听到两句接下来的话。<br>　　最快更新，无弹窗阅读请。</p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Duke/" rel="tag"># Duke</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2018/04/20/我是至尊/ 第二百一十七章 诸事纷扰/" rel="next" title="第二百一十七章 诸事纷扰">
+                <i class="fa fa-chevron-left"></i> 第二百一十七章 诸事纷扰
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2018/04/20/我是至尊/ 第二百一十九章 我眼珠没转!/" rel="prev" title="第二百一十九章 我眼珠没转!">
+                第二百一十九章 我眼珠没转! <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+
+      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image"
+                src="/images/logo.png"
+                alt="DDuke" />
+            
+              <p class="site-author-name" itemprop="name">DDuke</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          
+            <nav class="site-state motion-element">
+              
+                <div class="site-state-item site-state-posts">
+                
+                  <a href="/archives/">
+                
+                    <span class="site-state-item-count">1024</span>
+                    <span class="site-state-item-name">日志</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-categories">
+                  <a href="/categories/index.html">
+                    
+                    
+                      
+                    
+                      
+                    
+                    <span class="site-state-item-count">2</span>
+                    <span class="site-state-item-name">分类</span>
+                  </a>
+                </div>
+              
+
+              
+                
+                
+                <div class="site-state-item site-state-tags">
+                  <a href="/tags/index.html">
+                    
+                    
+                      
+                    
+                    <span class="site-state-item-count">1</span>
+                    <span class="site-state-item-name">标签</span>
+                  </a>
+                </div>
+              
+            </nav>
+          
+
+          
+
+          
+
+          
+          
+
+          
+          
+
+          
+            
+          
+          
+
+        </div>
+      </section>
+
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2018</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">DDuke</span>
+
+  
+
+  
+</div>
+
+
+
+
+  <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/theme-next/hexo-theme-next">NexT.Mist</a> v6.0.3</div>
+
+
+
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=6.0.3"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=6.0.3"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=6.0.3"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=6.0.3"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=6.0.3"></script>
+
+
+
+  
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    var isXml = true;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length === 0) {
+      search_path = "search.xml";
+    } else if (/json$/i.test(search_path)) {
+      isXml = false;
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    var onPopupClose = function (e) {
+      $('.popup').hide();
+      $('#local-search-input').val('');
+      $('.search-result-list').remove();
+      $('#no-result').remove();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    }
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.search-popup-overlay').click(onPopupClose);
+      $('.popup').toggle();
+      var $localSearchInput = $('#local-search-input');
+      $localSearchInput.attr("autocapitalize", "none");
+      $localSearchInput.attr("autocorrect", "off");
+      $localSearchInput.focus();
+    }
+
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+
+      // start loading animation
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay">' +
+          '<div id="search-loading-icon">' +
+          '<i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>' +
+          '</div>' +
+          '</div>')
+        .css('overflow', 'hidden');
+      $("#search-loading-icon").css('margin', '20% auto 0 auto').css('text-align', 'center');
+
+      
+
+      $.ajax({
+        url: path,
+        dataType: isXml ? "xml" : "json",
+        async: true,
+        success: function(res) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = isXml ? $("entry", res).map(function() {
+            return {
+              title: $("title", this).text(),
+              content: $("content",this).text(),
+              url: $("url" , this).text()
+            };
+          }).get() : res;
+          var input = document.getElementById(search_id);
+          var resultContent = document.getElementById(content_id);
+          var inputEventFunction = function() {
+            var searchText = input.value.trim().toLowerCase();
+            var keywords = searchText.split(/[\s\-]+/);
+            if (keywords.length > 1) {
+              keywords.push(searchText);
+            }
+            var resultItems = [];
+            if (searchText.length > 0) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var hitCount = 0;
+                var searchTextCount = 0;
+                var title = data.title.trim();
+                var titleInLowerCase = title.toLowerCase();
+                var content = data.content.trim().replace(/<[^>]+>/g,"");
+                
+                var contentInLowerCase = content.toLowerCase();
+                var articleUrl = decodeURIComponent(data.url);
+                var indexOfTitle = [];
+                var indexOfContent = [];
+                // only match articles with not empty titles
+                if(title != '') {
+                  keywords.forEach(function(keyword) {
+                    function getIndexByWord(word, text, caseSensitive) {
+                      var wordLen = word.length;
+                      if (wordLen === 0) {
+                        return [];
+                      }
+                      var startPosition = 0, position = [], index = [];
+                      if (!caseSensitive) {
+                        text = text.toLowerCase();
+                        word = word.toLowerCase();
+                      }
+                      while ((position = text.indexOf(word, startPosition)) > -1) {
+                        index.push({position: position, word: word});
+                        startPosition = position + wordLen;
+                      }
+                      return index;
+                    }
+
+                    indexOfTitle = indexOfTitle.concat(getIndexByWord(keyword, titleInLowerCase, false));
+                    indexOfContent = indexOfContent.concat(getIndexByWord(keyword, contentInLowerCase, false));
+                  });
+                  if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
+                    isMatch = true;
+                    hitCount = indexOfTitle.length + indexOfContent.length;
+                  }
+                }
+
+                // show search results
+
+                if (isMatch) {
+                  // sort index by position of keyword
+
+                  [indexOfTitle, indexOfContent].forEach(function (index) {
+                    index.sort(function (itemLeft, itemRight) {
+                      if (itemRight.position !== itemLeft.position) {
+                        return itemRight.position - itemLeft.position;
+                      } else {
+                        return itemLeft.word.length - itemRight.word.length;
+                      }
+                    });
+                  });
+
+                  // merge hits into slices
+
+                  function mergeIntoSlice(text, start, end, index) {
+                    var item = index[index.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    var hits = [];
+                    var searchTextCountInSlice = 0;
+                    while (position + word.length <= end && index.length != 0) {
+                      if (word === searchText) {
+                        searchTextCountInSlice++;
+                      }
+                      hits.push({position: position, length: word.length});
+                      var wordEnd = position + word.length;
+
+                      // move to next position of hit
+
+                      index.pop();
+                      while (index.length != 0) {
+                        item = index[index.length - 1];
+                        position = item.position;
+                        word = item.word;
+                        if (wordEnd > position) {
+                          index.pop();
+                        } else {
+                          break;
+                        }
+                      }
+                    }
+                    searchTextCount += searchTextCountInSlice;
+                    return {
+                      hits: hits,
+                      start: start,
+                      end: end,
+                      searchTextCount: searchTextCountInSlice
+                    };
+                  }
+
+                  var slicesOfTitle = [];
+                  if (indexOfTitle.length != 0) {
+                    slicesOfTitle.push(mergeIntoSlice(title, 0, title.length, indexOfTitle));
+                  }
+
+                  var slicesOfContent = [];
+                  while (indexOfContent.length != 0) {
+                    var item = indexOfContent[indexOfContent.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    // cut out 100 characters
+                    var start = position - 20;
+                    var end = position + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if (end < position + word.length) {
+                      end = position + word.length;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    slicesOfContent.push(mergeIntoSlice(content, start, end, indexOfContent));
+                  }
+
+                  // sort slices in content by search text's count and hits' count
+
+                  slicesOfContent.sort(function (sliceLeft, sliceRight) {
+                    if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
+                      return sliceRight.searchTextCount - sliceLeft.searchTextCount;
+                    } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
+                      return sliceRight.hits.length - sliceLeft.hits.length;
+                    } else {
+                      return sliceLeft.start - sliceRight.start;
+                    }
+                  });
+
+                  // select top N slices in content
+
+                  var upperBound = parseInt('1');
+                  if (upperBound >= 0) {
+                    slicesOfContent = slicesOfContent.slice(0, upperBound);
+                  }
+
+                  // highlight title and content
+
+                  function highlightKeyword(text, slice) {
+                    var result = '';
+                    var prevEnd = slice.start;
+                    slice.hits.forEach(function (hit) {
+                      result += text.substring(prevEnd, hit.position);
+                      var end = hit.position + hit.length;
+                      result += '<b class="search-keyword">' + text.substring(hit.position, end) + '</b>';
+                      prevEnd = end;
+                    });
+                    result += text.substring(prevEnd, slice.end);
+                    return result;
+                  }
+
+                  var resultItem = '';
+
+                  if (slicesOfTitle.length != 0) {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + highlightKeyword(title, slicesOfTitle[0]) + "</a>";
+                  } else {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + title + "</a>";
+                  }
+
+                  slicesOfContent.forEach(function (slice) {
+                    resultItem += "<a href='" + articleUrl + "'>" +
+                      "<p class=\"search-result\">" + highlightKeyword(content, slice) +
+                      "...</p>" + "</a>";
+                  });
+
+                  resultItem += "</li>";
+                  resultItems.push({
+                    item: resultItem,
+                    searchTextCount: searchTextCount,
+                    hitCount: hitCount,
+                    id: resultItems.length
+                  });
+                }
+              })
+            };
+            if (keywords.length === 1 && keywords[0] === "") {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
+            } else if (resultItems.length === 0) {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
+            } else {
+              resultItems.sort(function (resultLeft, resultRight) {
+                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
+          }
+
+          if ('auto' === 'auto') {
+            input.addEventListener('input', inputEventFunction);
+          } else {
+            $('.search-icon').click(inputEventFunction);
+            input.addEventListener('keypress', function (event) {
+              if (event.keyCode === 13) {
+                inputEventFunction();
+              }
+            });
+          }
+
+          // remove loading animation
+          $(".local-search-pop-overlay").remove();
+          $('body').css('overflow', '');
+
+          proceedsearch();
+        }
+      });
+    }
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
